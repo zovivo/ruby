@@ -9,7 +9,7 @@ week 3 : chap 2, micropost-user, select box
 
 week 4 : chap 3,4,5 - static pages, layout
 
-week 5 : chap 6,7,8 -signin, signup, fb login
+week 5 : chap 6,7,8 - signin, signup, fb login
 
 week 6 : chap 9 - remember me
 
