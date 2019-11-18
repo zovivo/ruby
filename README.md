@@ -13,3 +13,5 @@ week 5 : chap 6,7,8 - signin, signup, fb login
 
 week 6 : chap 9 - remember me
 
+week 7 : chap 10, authorization
+
