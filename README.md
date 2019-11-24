@@ -15,3 +15,4 @@ week 6 : chap 9 - remember me
 
 week 7 : chap 10, authorization
 
+week 8 : chap 11, mail sender
